@@ -2390,7 +2390,7 @@ class NativePlayer extends PlatformPlayer {
         'dscale': 'bilinear',
         'dither': 'no',
         'cache': 'no',
-        'ache-pause': 'no',
+        'cache-pause': 'no',
         'cache-on-disk': 'yes',
         'hr-seek': 'yes',
         'hr-seek-framedrop': 'no',
